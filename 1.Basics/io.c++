@@ -7,6 +7,4 @@ int main()
     cin >> x >> y;
     cout << "Value of x: " << x << "and y: " << y;
     return 0;
-
-    return 0;
 }
